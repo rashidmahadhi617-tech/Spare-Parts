@@ -1,0 +1,8 @@
+{
+  "name": "Spea za Pikipiki - Excel Business Workbook",
+  "description": "Mfumo kamili wa usimamizi wa spea za pikipiki wenye Dashboard, Sales, Purchases, Expenses, Stock Tracker, na upakuaji wa faili moja la Excel (.xlsx).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
